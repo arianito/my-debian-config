@@ -1,0 +1,5 @@
+[user]
+  name=Aryan
+  email=collaborativeroom@gmail.com
+[credential]
+  helper = cache --timeout=2592000
